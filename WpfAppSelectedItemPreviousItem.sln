@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppSelectedItemPreviousItem", "WpfAppSelectedItemPreviousItem\WpfAppSelectedItemPreviousItem.csproj", "{59FC2E38-6D35-42F0-BCBE-53CE746506D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfAppSelectedItemPreviousItem.DAL", "WpfAppSelectedItemPreviousItem.DAL\WpfAppSelectedItemPreviousItem.DAL.csproj", "{F7310C5C-4367-4FDE-A017-29292AB41589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FC2E38-6D35-42F0-BCBE-53CE746506D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FC2E38-6D35-42F0-BCBE-53CE746506D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FC2E38-6D35-42F0-BCBE-53CE746506D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FC2E38-6D35-42F0-BCBE-53CE746506D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7310C5C-4367-4FDE-A017-29292AB41589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7310C5C-4367-4FDE-A017-29292AB41589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7310C5C-4367-4FDE-A017-29292AB41589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7310C5C-4367-4FDE-A017-29292AB41589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F554AE88-B5A9-4028-87BF-7DEAEC42A3C8}
+	EndGlobalSection
+EndGlobal
